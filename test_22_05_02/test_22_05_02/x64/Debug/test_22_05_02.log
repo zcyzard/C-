@@ -1,0 +1,10 @@
+﻿  反向输出字符串.c
+E:\笔记\Code\C语言\test_22_05_02\test_22_05_02\反向输出字符串.c(10,28): warning C4013: “strlen”未定义；假设外部返回 int
+  平均分问题.c
+  数组排序.c
+  直角杨辉三角.c
+  正在生成代码...
+反向输出字符串.obj : error LNK2005: main 已经在 数组排序.obj 中定义
+平均分问题.obj : error LNK2005: main 已经在 数组排序.obj 中定义
+直角杨辉三角.obj : error LNK2005: main 已经在 数组排序.obj 中定义
+E:\笔记\Code\C语言\test_22_05_02\x64\Debug\test_22_05_02.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
