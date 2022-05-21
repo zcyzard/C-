@@ -1,2 +1,27 @@
-﻿  选择排序.c
-  review_22_05_02.vcxproj -> E:\笔记\Code\C语言\review_22_05_02\x64\Debug\review_22_05_02.exe
+﻿  90°旋转数组.c
+  ATM取钱.c
+  乘法表.c
+  二元一次方程.c
+E:\笔记\Code\C语言\review_22_05_02\review_22_05_02\二元一次方程.c(18,52): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+E:\笔记\Code\C语言\review_22_05_02\review_22_05_02\二元一次方程.c(18,83): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+E:\笔记\Code\C语言\review_22_05_02\review_22_05_02\二元一次方程.c(23,66): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+E:\笔记\Code\C语言\review_22_05_02\review_22_05_02\二元一次方程.c(23,105): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+  二分法查找.c
+  分数求和.c
+  反向输出字符串.c
+E:\笔记\Code\C语言\review_22_05_02\review_22_05_02\反向输出字符串.c(9,17): warning C4013: “strlen”未定义；假设外部返回 int
+  猜数字.c
+E:\笔记\Code\C语言\review_22_05_02\review_22_05_02\猜数字.c(8,7): warning C4013: “srand”未定义；假设外部返回 int
+E:\笔记\Code\C语言\review_22_05_02\review_22_05_02\猜数字.c(8,22): warning C4013: “time”未定义；假设外部返回 int
+E:\笔记\Code\C语言\review_22_05_02\review_22_05_02\猜数字.c(10,12): warning C4013: “rand”未定义；假设外部返回 int
+  选择排序.c
+  正在生成代码...
+ATM取钱.obj : error LNK2005: main 已经在 90°旋转数组.obj 中定义
+乘法表.obj : error LNK2005: main 已经在 90°旋转数组.obj 中定义
+二元一次方程.obj : error LNK2005: main 已经在 90°旋转数组.obj 中定义
+二分法查找.obj : error LNK2005: main 已经在 90°旋转数组.obj 中定义
+分数求和.obj : error LNK2005: main 已经在 90°旋转数组.obj 中定义
+反向输出字符串.obj : error LNK2005: main 已经在 90°旋转数组.obj 中定义
+选择排序.obj : error LNK2005: main 已经在 90°旋转数组.obj 中定义
+猜数字.obj : error LNK2005: main 已经在 90°旋转数组.obj 中定义
+E:\笔记\Code\C语言\review_22_05_02\x64\Debug\review_22_05_02.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
